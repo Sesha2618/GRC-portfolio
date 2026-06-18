@@ -64,7 +64,6 @@
 grc-portfolio/
 ├── README.md          # This file
 ├── evidence/          # Screenshots and documentation
-│   └── iso-risk-assessment/
 └── portfolio.html     # Standalone portfolio page
 ```
 
