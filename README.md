@@ -15,6 +15,7 @@
 | Assets Managed | 3 |
 | Risks Assessed | 5 |
 | Controls Implemented | 5 |
+| Evidence Screenshots | 7 |
 
 ---
 
@@ -36,6 +37,8 @@
 - Developed 5 risk treatment plans with documented mitigation strategies, acceptance criteria, and residual risk calculations
 - Completed ISO 27001 risk assessment documentation supporting certification readiness for cloud infrastructure
 
+**Evidence:** 7 screenshot(s) available in `/evidence/iso-risk-assessment/` folder
+
 ---
 
 ## 🛠️ Skills & Frameworks
@@ -53,10 +56,16 @@
 - NIST CSF
 - GDPR
 
+---
+
 ## 📁 Repository Structure
 
 ```
 grc-portfolio/
 ├── README.md          # This file
 ├── evidence/          # Screenshots and documentation
+│   └── iso-risk-assessment/
 └── portfolio.html     # Standalone portfolio page
+```
+
+---
